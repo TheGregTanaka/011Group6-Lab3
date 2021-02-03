@@ -1,7 +1,7 @@
-# 011Group6-Lab3
 project team members:
 * Timothy Waymouth
-* Jules Fischer-White wuz here
+* Jules Fischer-White
 * Gregory Tanaka
 * Manoj Yeddanapudy
 * Joshua Truong
+>>>>>>> 9e95be4982b0d4824a36d14d1ee01b3feefdbef2
