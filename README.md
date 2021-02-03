@@ -7,5 +7,5 @@ Timothy Waymouth
 Gregory Tanaka
 Jules wuz here
 Manoj Yeddanapudy
-Joshua Truong
+Project Team Members: Joshua Truong
 >>>>>>> aa4ab404f60169d62b305bf292b8bc357315d348
