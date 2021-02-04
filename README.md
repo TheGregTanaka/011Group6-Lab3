@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-Joshua Truong
-=======
 # 011Group6-Lab3
-Timothy Waymouth
-
-Gregory Tanaka
-Jules wuz here
-Manoj Yeddanapudy
-Project Team Members: Joshua Truong
->>>>>>> aa4ab404f60169d62b305bf292b8bc357315d348
+Project Team Members: 
+* Timothy Waymouth
+* Jules Fischer-White
+* Gregory Tanaka
+* Manoj Yeddanapudy
+* Joshua Truong
+* Ryan Osler
