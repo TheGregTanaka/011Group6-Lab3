@@ -4,5 +4,5 @@ Project Team Members:
 * Jules Fischer-White
 * Gregory Tanaka
 * Manoj Yeddanapudy
-* Joshua Truong
+* Project Team Members: Joshua Truong
 * Ryan Osler
