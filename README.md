@@ -2,7 +2,7 @@
 Project Team Members: 
 * Timothy Waymouth
 * Jules Fischer-White
-* Gregory Tanaka
+* Gregory Tanaka !!!!
 * Manoj Yeddanapudy
-*  Joshua Truong
+* Joshua Truong
 * Ryan Osler.
