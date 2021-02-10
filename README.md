@@ -5,4 +5,4 @@ Project Team Members:
 * Gregory Tanaka !!!
 * Manoj Yeddanapudy
 * Joshua Truong
-* Ryan Osler
+* Ryan Osler.
